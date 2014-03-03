@@ -57,7 +57,7 @@ map <F5> o#include <iostream>
 \<CR><TAB>return 0;
 \<CR>}
 
-" Java Skelton
+" Java Skeleton
 map <F3> opublic class <ESC> "=expand("%") <CR>PkJA<ESC>d4hdlA {
 \<CR><TAB>public static void main(String[] args) {
 \<CR><TAB>}
