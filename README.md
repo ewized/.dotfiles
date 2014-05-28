@@ -1,4 +1,4 @@
-vimrc
+dotfiles
 =====
 
-My vimrc file, may not be that great but still worth sharing.
+My dot files, may not be that great but still worth sharing.
