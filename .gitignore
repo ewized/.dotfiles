@@ -1,0 +1,11 @@
+# IDES
+*~
+*.swp
+*.swap
+*.tmp
+.idea/
+*.iml
+
+# Mac
+._*
+.DS_Store
