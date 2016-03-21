@@ -5,7 +5,6 @@
 git pull origin master
 current_dir=`pwd`
 cd ~
-ln -sf $current_dir/.*
-rm -Rf .git/
+ln -sf $current_dir/.* ~
 cd $current_dir
 
